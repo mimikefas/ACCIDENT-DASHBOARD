@@ -1,3 +1,4 @@
+
 # ACCIDENT-DASHBOARD
 An accident dataset gotten from kaggle and Power BI for visualization to drive meaningful insight on road safety measures and usage to decrease accident risk and life management. The dataset consist of 200 rows and 6 columns, with missing values in columns like Speed of Impact and Gender. In the process of visualization I filled up missing values with fill down and fill up respectively, and used visualization tools like bar chart and pie charts. I created a new column Age category using measure in Power BI to group Age for clarity.
  
